@@ -1,0 +1,18 @@
+{
+  "name": "gsapp-js",
+  "version": "1.0.0",
+  "description": "gsapp-web",
+  "main": "index.js",
+  "dependencies": {
+    "good": "^5.1.2",
+    "good-console": "^4.1.0",
+    "handlebars": "^3.0.0",
+    "hapi": "^8.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "pedro ivo",
+  "license": "ISC"
+}
